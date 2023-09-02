@@ -1,0 +1,8 @@
+let data = {
+    data: {
+        email: email,
+        designation: designation,
+        name: name,
+        feedback: feedback
+    }
+}
